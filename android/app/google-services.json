@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "800459390144",
+    "firebase_url": "https://ocrskin.firebaseio.com",
+    "project_id": "ocrskin",
+    "storage_bucket": "ocrskin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800459390144:android:f5909da2d9833015274125",
+        "android_client_info": {
+          "package_name": "com.example.ocrskin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "800459390144-s95t0o200kcn5d4i6dkngfh8p4o60jh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU3BC75QykpEG0iR96LhjWSdLlu2Mq6m0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "800459390144-s95t0o200kcn5d4i6dkngfh8p4o60jh3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
